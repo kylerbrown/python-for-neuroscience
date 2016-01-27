@@ -1,0 +1,28 @@
+* TODO make registration google doc
+should contain
++ name
++ committee/dept
++ student/post-doc/tech
++ programming experience
++ preferred programming language
++ interests (check all)
+  + image processing
+  + signal processing
+  + machine learning
+  + neural network simulations
+  + statistical modeling
+  + Bayesian modeling
+  + data visualization
+
+* lessons
+Materials
++ anaconda distribution preinstalled?
++ extra packages?
+** TODO lesson plan
+*** inspiration: software carpentry
+** Day 1
+Intro to jupyter, python3, numpy, scipy, matplotlib. Ideally using real data or somewhat realistic 
+use cases.
+** day 2
+Case studies in neuro specific topics? Some ideas:
++ using Brian to create data, which would then be used as input for other analysis tools
