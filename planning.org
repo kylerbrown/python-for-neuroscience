@@ -19,9 +19,13 @@ Materials
 + anaconda distribution preinstalled?
 + extra packages?
 ** TODO lesson plan
-*** inspiration: software carpentry
+*** inspiration: software carpentry 
+[[http://swcarpentry.github.io/python-novice-inflammation/]]
 ** Day 1
-Intro to jupyter, python3, numpy, scipy, matplotlib. Ideally using real data or somewhat realistic 
+*** lesson 1 (1hr)
+Python basics - data structures, loops, conditionals, functions
+*** lesson 2 (1hr)
+numpy, scipy, matplotlib. Ideally using real data or somewhat realistic 
 use cases.
 ** day 2
 Case studies in neuro specific topics? Some ideas:
