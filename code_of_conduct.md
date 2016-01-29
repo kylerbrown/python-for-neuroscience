@@ -5,7 +5,7 @@ This workshop is a community events intended for networking and collaboration as
 To make clear what is expected, everyone taking part in this event and discussions—instructors, helpers, organizers, and learners—is required to conform to the following Code of Conduct. Organizers will enforce this code throughout events, but you may also contact us directly by email:
 
 * Kyler Brown -- kjbrown@uchicago.edu
-* William Johnston -- wjj@uchicago.edu
+* Jeff Johnston -- wjj@uchicago.edu
 * Gregg Tabot -- tabot@uchicago.edu
 * Boleszek Osinski -- boleszek@uchicago.edu
 * Max Gillett -- max.gillett@uchicago.edu
