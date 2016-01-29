@@ -5,7 +5,7 @@ This workshop is a community events intended for networking and collaboration as
 To make clear what is expected, everyone taking part in this event and discussions—instructors, helpers, organizers, and learners—is required to conform to the following Code of Conduct. Organizers will enforce this code throughout events, but you may also contact us directly by email:
 
 * Kyler Brown -- kjbrown@uchicago.edu
-* William Johnston -- wjj@uchicago.edu
+* Jeff Johnston -- wjj@uchicago.edu
 * Gregg Tabot -- tabot@uchicago.edu
 * Boleszek Osinski -- boleszek@uchicago.edu
 * Max Gillett -- max.gillett@uchicago.edu
@@ -25,4 +25,4 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Thank you for helping make this a welcoming, friendly event for all.
 
-_This code of conduct is essentially copied verbatim from (Software Carpentry)[http://software-carpentry.org/conduct/] which is turn is a modified version of that used by (PyCon)[https://us.pycon.org/2015/about/code-of-conduct/], which in turn is forked from a template written by the Ada Initiative and hosted on (the Geek Feminism Wiki)[http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy]._
+_This code of conduct is essentially copied verbatim from [Software Carpentry](http://software-carpentry.org/conduct/) which is turn is a modified version of that used by [PyCon](https://us.pycon.org/2015/about/code-of-conduct/), which in turn is forked from a template written by the Ada Initiative and hosted on [the Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)._
