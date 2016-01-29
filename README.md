@@ -18,10 +18,9 @@ $ jupyter notebook --version
 This should return something >= 4
 ## Git
 ### Windows
-Install git (here)[https://git-for-windows.github.io/]
+Install git [here](https://git-for-windows.github.io/)
 ### OS X
-(OS X 10.9 or higher)[http://sourceforge.net/projects/git-osx-installer/files/]
-(less than OS X 10.9)[http://sourceforge.net/projects/git-osx-installer/files/]
+For OS X >= 10.9 choose the Maverick installer [here](http://sourceforge.net/projects/git-osx-installer/files/), otherwise choose Snow Leopard.
 ### Linux 
 Debian or Ubuntu: `sudo apt-get install git`. Fedora: `sudo yum install git`.
 
