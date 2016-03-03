@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This workshop is a community events intended for networking and collaboration as well as learning. We value the participation of every member of the scientific community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the workshop.
+This workshop is a community event intended for networking and collaboration as well as learning. We value the participation of every member of the scientific community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the workshop.
 
 To make clear what is expected, everyone taking part in this event and discussions—instructors, helpers, organizers, and learners—is required to conform to the following Code of Conduct. Organizers will enforce this code throughout events, but you may also contact us directly by email:
 
