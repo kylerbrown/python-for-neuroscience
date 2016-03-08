@@ -1,6 +1,7 @@
 # Python for Neuroscience
 Materials for a workshop at the University of Chicago
-
+## Time and Location
+Thursday, March 10th, 5:00pm-7:00pm, Grossman Institute room  P-403 
 # Setup
 First please read our [Code of Conduct](code_of_conduct.md).
 
