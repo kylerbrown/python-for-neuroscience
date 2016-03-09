@@ -23,10 +23,13 @@ Materials
 [[http://swcarpentry.github.io/python-novice-inflammation/]]
 ** Day 1
 *** lesson 1 (1hr)
-Python basics - data structures, loops, conditionals, functions
-*** lesson 2 (1hr)
-numpy, scipy, matplotlib. Ideally using real data or somewhat realistic 
-use cases.
-** day 2
-Case studies in neuro specific topics? Some ideas:
-+ using Brian to create data, which would then be used as input for other analysis tools
++ Bo: absolute basics
+  arithmetic, list and array operations, datatypes, mutation
++ Kyler: more advanced basics
+  plotting, spike detection in raw data, filtering, psth and ISI (functions)
++ Jeff: STA 1D, 2D, curve_fit
+  loops, plotting, common neuroscience analysis, dealing with neural data,
+  ridiculous stride moves
++ Max: Are Place Cells Real?
+  place cell data, plotting movement, colormaps
+  
