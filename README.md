@@ -55,9 +55,9 @@ This should return something >= 4
 
 
 ## Further resources
-[google](https://www.google.com): Probably the best resource out there.
-[Python Essential Reference](https://www.safaribooksonline.com/library/view/python-essential-reference/9780768687040/)
-[Learn Python the Hard Way](http://learnpythonthehardway.org/): free online book
-[Codecademy](https://www.codecademy.com/learn/python): Interactive Python tutorial
-[Think Python](http://www.greenteapress.com/thinkpython/thinkpython.html): free online book
-[Google's Python Class](https://developers.google.com/edu/python/?csw=1): free online course
++ [google](https://www.google.com): Probably the best resource out there.
++ [Python Essential Reference](https://www.safaribooksonline.com/library/view/python-essential-reference/9780768687040/)
++ [Learn Python the Hard Way](http://learnpythonthehardway.org/): free online book
++ [Codecademy](https://www.codecademy.com/learn/python): Interactive Python tutorial
++ [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.html): free online book
++ [Google's Python Class](https://developers.google.com/edu/python/?csw=1): free online course
