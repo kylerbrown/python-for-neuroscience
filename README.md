@@ -27,15 +27,15 @@ This should return something >= 4
 # Further Reading
 ## Useful Packages
 
-+ *numpy*: numeric computing
-+ *scipy*: variety of scientific funtions --  signal processing, statistics, curve fitting, loading data formats like .wav, .mat
-+ *matplotlib*: plotting
-+ *seaborn*: beautiful plotting with matlab
-+ *bokeh*, *mpld3*: Interactive figures for html5.
-+ *scikit-learn*: machine learning
-+ *pandas*: higher-level data structure built on numpy, great for 
-+ *brian*: simulating biological neural networks
-+ *sympy*: symbolic computation, mathematics
++ *[numpy](http://www.numpy.org/)*: numeric computing
++ *[scipy](https://www.scipy.org/)*: variety of scientific funtions --  signal processing, statistics, curve fitting, loading data formats like .wav, .mat
++ *[matplotlib](http://matplotlib.org/)*: plotting
++ *[seaborn](https://stanford.edu/~mwaskom/software/seaborn/)*: beautiful plotting with matlab
++ *[bokeh](http://bokeh.pydata.org/en/latest/)*, *mpld3*: Interactive figures for html5.
++ *[scikit-learn](http://scikit-learn.org/stable/)*: machine learning
++ *[pandas](http://pandas.pydata.org/)*: higher-level data structure built on numpy, great for 
++ *[brian](http://briansimulator.org/)*: simulating biological neural networks
++ *[sympy](http://briansimulator.org/)*: symbolic computation, mathematics
 + *networkX*: visualizing networks, graphs
 + *pillow*, *opencv*, *scikit-image*: image/video processing
 + *pymatbridge*: call Matlab function
