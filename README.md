@@ -25,7 +25,8 @@ $ jupyter notebook --version
 This should return something >= 4
 
 ## Get the Data
-Download and unzip the [data](https://dl.dropboxusercontent.com/u/3986413/data.zip). 
+Download and unzip the [data](https://www.dropbox.com/s/qslv86soqn2hcd4/data.zip?dl=1). 
+
 # Further Reading
 ## Useful Packages
 
